@@ -28,7 +28,7 @@ This tool is powered by OpenAI’s powerful API and integrates with the React fr
 
 Clone the repository
 
-`git clone https://github.com/karolinasniezek/ai-assistant-openai.git`
+`git clone https://github.com/karolinasniezek/ai-embedding-assistant-openai.git`
 
 Navigate to the project
 
