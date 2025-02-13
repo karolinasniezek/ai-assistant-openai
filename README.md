@@ -54,6 +54,7 @@ The embeddings will be displayed in real-time on the page.
 
 ### Example:
 Input: `fox jump over chilled dog`
+
 Output: The corresponding vector representation (embedding) will be shown in the UI, which is a list of floating-point numbers.
 
 https://github.com/user-attachments/assets/afb4ecb6-a599-4c7c-8645-2da6ab1e763e
