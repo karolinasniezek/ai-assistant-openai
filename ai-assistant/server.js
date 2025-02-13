@@ -5,7 +5,7 @@ const OpenAI = require("openai");
 
 const app = express();
 app.use(cors());
-app.use(express.json);
+app.use(express.json());
 
 require("dotenv").config();
 
@@ -18,7 +18,7 @@ app.post("/embedding", async (req, res) => {
     input: text,
     encoding_format: "float",
   });
-  console.log(embedding.data[0]);
+  res.send(embedding.data[0].embedding);
 });
 
 app.listen(PORT, () => {
