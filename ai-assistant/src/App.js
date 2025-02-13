@@ -25,7 +25,7 @@ const App = () => {
   return (
     <div className={styles.appContainer}>
       <header className={styles.header}>
-        <h1>AI Assistant</h1>
+        <h1>AI Embedding Assistant</h1>
         <p>
           Generate embeddings from any word. Simply type in the text, and the AI
           will return the embeddings as an array.
