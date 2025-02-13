@@ -13,7 +13,8 @@ This tool is powered by OpenAI’s powerful API and integrates with the React fr
 ## Technologies used
 
 - `React.js`
-- `Node.js`, `Express.js`
+- `Node.js`,
+- `Express.js`
 - `OpenAI API`
 - `Css modules`
 
@@ -22,7 +23,6 @@ This tool is powered by OpenAI’s powerful API and integrates with the React fr
 ### Prerequisites
 
 - `Node.js`
-- `npm`
 
 ### Steps:
 
