@@ -53,8 +53,10 @@ Once the application is running, visit `http://localhost:3000`. The interface wi
 The embeddings will be displayed in real-time on the page.
 
 ### Example:
-Input: `fox jump chilled dog`
+Input: `fox jump over chilled dog`
 Output: The corresponding vector representation (embedding) will be shown in the UI, which is a list of floating-point numbers.
+
+https://github.com/user-attachments/assets/afb4ecb6-a599-4c7c-8645-2da6ab1e763e
 
 ### Why Generate Embeddings?
 
