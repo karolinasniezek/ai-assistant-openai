@@ -45,6 +45,7 @@ Create `.env` file with your `OpenAI API Key`
 Start the application
 
 `npm run start:frontend`
+
 `npm run start:backend`
 
 ### Usage
