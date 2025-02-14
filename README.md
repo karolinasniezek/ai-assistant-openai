@@ -74,6 +74,6 @@ Embeddings are essential for natural language processing (NLP) tasks such as:
 
 ### Key Concepts
 - `Embeddings` High-dimensional vectors that capture the semantic meaning of text.
-- `OpenAI API` A powerful API for generating text embeddings and other NLP tasks.
-- `React.js` A JavaScript library used for building the user interface, providing a dynamic and responsive application.
+- `OpenAI API` A powerful API for generating text embeddings.
+- `React.js` A JavaScript library used for building the user interface.
 - `Node.js` and `Express.js` Backend technologies used for handling requests and integrating with external APIs.
